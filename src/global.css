@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 0;
+  scrollbar-width: 10px;
+  scrollbar-color: #444 #888;
+  scroll-behavior: smooth;
+}
+
+.cesium-viewer-bottom {
+  display: none !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #888;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #444;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
