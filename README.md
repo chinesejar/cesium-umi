@@ -1,14 +1,16 @@
-# umi project
+# CesiumJS + UmiJS 模板
 
-## Getting Started
+> 参考 https://cesium.com/docs/tutorials/cesium-and-webpack/
 
-Install dependencies,
+## 开始使用
+
+安装依赖
 
 ```bash
 $ yarn
 ```
 
-Start the dev server,
+启动开发环境
 
 ```bash
 $ yarn start
